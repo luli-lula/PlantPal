@@ -68,7 +68,7 @@ function App() {
     <div>
       {/* This is the header  */}
       <Toolbar sx={{ display: 'flex', justifyContent: 'center', bgcolor: 'success.main' }}>
-        <Typography variant="h4" sx={{ color: 'common.white' }}>Plantsnap</Typography>
+        <Typography variant="h4" sx={{ color: 'common.white' }}>PlantPal</Typography>
       </Toolbar>
 
       {/* This is image upload section */}
